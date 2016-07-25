@@ -71,7 +71,7 @@ class PreSetup(object):
         self.db_host = '127.0.0.1'
         self.db_port = 3306
         self.db_user = 'jumpserver'
-        self.db_pass = '5Lov@wife'
+        self.db_pass = '123'
         self.db = 'jumpserver'
         self.mail_host = 'smtp.qq.com'
         self.mail_port = 25
